@@ -1,0 +1,5 @@
+theme: jekyll-theme-architect
+title: v2n's Technical Notes
+description: 趣味の技術的なメモ帳
+plugins:
+  - jekyll-sitemap
